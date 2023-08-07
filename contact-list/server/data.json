@@ -1,0 +1,86 @@
+{
+  "contactList": [
+    {
+      "image": "/src/assets/contacts/jane.png",
+      "name": "Jane Cooper",
+      "email": "jane.cooper@example.com",
+      "isFavorite": 0,
+      "numbers": [
+        {
+          "phoneNumber": "+41 79 444 88 32",
+          "details": "Home",
+          "optionalPhoneNumber": "+41 83 773 88 02",
+          "optionalDetails": "Work"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "image": "/src/assets/contacts/cody.png",
+      "name": "Cody Fisher",
+      "email": "cody.fisher@example.com",
+      "isFavorite": 0,
+      "numbers": [
+        {
+          "phoneNumber": "+41 83 857 99 54",
+          "details": "Work"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "image": "/src/assets/contacts/esther.png",
+      "name": "Esther Howard",
+      "email": "esther.howard@example.com",
+      "isFavorite": 1,
+      "numbers": [
+        {
+          "phoneNumber": "+41 66 836 97 11",
+          "details": "Work"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "image": "/src/assets/contacts/jenny.png",
+      "name": "Jenny Wilson",
+      "email": "jenny.wilson@example.com",
+      "isFavorite": 0,
+      "numbers": [
+        {
+          "phoneNumber": "+41 54 898 34 76",
+          "details": "Home"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "image": "/src/assets/contacts/kristin.png",
+      "name": "Kristin Watson",
+      "email": "kristin.watson@example.com",
+      "isFavorite": 0,
+      "numbers": [
+        {
+          "phoneNumber": "+41 78 663 65 57",
+          "details": "Work",
+          "optionalPhoneNumber": "+41 78 546 77 18",
+          "optionalDetails": "Home"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "image": "/src/assets/contacts/cameron.png",
+      "name": "Cameron Williamson",
+      "email": "cameron.williamson@example.com",
+      "isFavorite": 1,
+      "numbers": [
+        {
+          "phoneNumber": "+41 33 937 97 63",
+          "details": "Work"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
