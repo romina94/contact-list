@@ -6,7 +6,6 @@
 
     <div class="col-lg-2 col-xs-12" id="sidebar">
       <div class="header">
-        <img src="/src/assets/revendo.png" class="logo" alt="Logo" />
         <button class="mobile-nav" @click="closeNav()">
           <i class="fa fa-times" aria-hidden="true"></i>
         </button>
